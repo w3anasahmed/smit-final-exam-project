@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232510517754",
+    "project_id": "smit-final-exam-project",
+    "storage_bucket": "smit-final-exam-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232510517754:android:90e8f384eab7c184eaf443",
+        "android_client_info": {
+          "package_name": "com.example.smit_final_exam_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZx9cHKWQhruoH5NXBRYUOqsg1CbmlHAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
